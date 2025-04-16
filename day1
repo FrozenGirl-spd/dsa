@@ -1,0 +1,3 @@
+Iterators vs Pointers (in C++ STL)
+    Iterators in C++ act like pointers in many ways — they can be incremented (++itr), dereferenced (*itr), and used in loops to traverse containers like vector, list, etc.
+    However, they are not raw pointers, and this distinction shows up in things like printing them.
